@@ -546,12 +546,11 @@
           1,
           1,
           1,
-          1,
           null,
           1,
           1,
           1,
-          1,
+          null,
           null,
           null
         ]
@@ -561,13 +560,13 @@
           1,
           1,
           1,
-          1,
+          null,
+          null,
+          null,
+          null,
           null,
           1,
-          null,
-          null,
-          null,
-          null,
+          1,
           null,
           null
         ]
@@ -579,14 +578,36 @@
           1,
           1,
           1,
+          1,
           null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/nicoshanstrom/Turing/3mod/final_ic_practice/nearest-fuel-station-7/app/poros/station.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
           1,
           null,
           null,
           1,
-          null,
-          1,
-          1,
+          2,
           null,
           null
         ]
@@ -599,17 +620,7 @@
           null,
           null,
           null,
-          null,
           1,
-          7,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null,
-          null,
-          null,
           null,
           null
         ]
@@ -621,6 +632,7 @@
           1,
           1,
           1,
+          1,
           null,
           1,
           null,
@@ -632,8 +644,21 @@
           null,
           null
         ]
+      },
+      "/Users/nicoshanstrom/Turing/3mod/final_ic_practice/nearest-fuel-station-7/app/poros/directions.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          8,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1717444720
+    "timestamp": 1717463761
   }
 }
